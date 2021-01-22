@@ -1,4 +1,4 @@
-name: Project Tests
+name: Github Classroom Workflow
 on:
   push:
     branches:
